@@ -1,0 +1,3 @@
+# vp-coq
+
+Variational programming
